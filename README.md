@@ -1,5 +1,5 @@
 # Welcome To Microex!
-Microex致力于.net技术的探索。以下是我们提供的一些公共方法和规范。
+Microex一直致力于.net技术的探索。以下是我们提供的一些公共方法和规范。
 
 # Documentation
 * Microex.Common
