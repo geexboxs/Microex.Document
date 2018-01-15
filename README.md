@@ -1,5 +1,5 @@
-[Microex.Common](#microex.common)
-  [Microex.Common]
+[Microex.Common](#microexcommon)
+  [Microex.Common](#microexcommon)
 
 # Microex.Common
 ## Microex.Common
